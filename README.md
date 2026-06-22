@@ -1,2 +1,2 @@
-# Bao cao cuoi ky ky thuat lap trinh
+# KTLT
 kỹ thuật lập trình
